@@ -1,11 +1,12 @@
 .field{
-  width: 300px;
+  width: 250px;
   padding-bottom: 20px;
 }
 
 .colour-border{
-  border: 3px solid green;
+  border: 10px solid darkblue;
   padding: 10px;
+  background-color: skyblue;
 }
 
 .header{
